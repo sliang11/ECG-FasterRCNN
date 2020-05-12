@@ -34,7 +34,7 @@ class model(rpn_evalor):
         tool = rpn_tool_d()
         start_time = time.time()
         # print(optim.state_dict())
-        for epoch in range(1500):
+        for epoch in range(3000):
             runing_losss = 0.0
             cls_loss = 0
             coor_loss = 0
