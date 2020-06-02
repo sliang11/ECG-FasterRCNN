@@ -1,6 +1,6 @@
 # Overview
 
-Please note that some of the code is transferred from other repositories. We have not attached the license files to remain anonymous, and will attach them immediately if our paper gets accepted. To this end, please do not use any of our code for purposes other than paper review, as this may violate license protocols. Thank you for your understanding!
+This repository holds the source code of our PAKDD 2020 paper "Simultaneous ECG Heartbeat Segmentation and Classification with Feature Fusion and Long Term Context Dependencies". Please note that some of the code is transferred from other repositories. Please use our code, as well as that shared by other contributors, in accordance with the respective licenses and protocols.
  
 # Usage
 Please take the following steps to run our code.
